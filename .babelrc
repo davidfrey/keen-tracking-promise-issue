@@ -1,0 +1,10 @@
+{
+  "presets": [
+    "./tools/babel-preset"
+  ],
+  "env": {
+    "cjs": {
+      "plugins": ["add-module-exports"]
+    }
+  }
+}
