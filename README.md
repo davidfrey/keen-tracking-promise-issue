@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/davidfrey/keen-tracking-promise-issue.svg?branch=master)](https://travis-ci.org/davidfrey/keen-tracking-promise-issue)
+
 # Keen Tracking in Javascript Promises
 
 Using a keen-tracking client with promises has caused node process to hang without
